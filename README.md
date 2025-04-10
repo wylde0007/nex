@@ -65,10 +65,10 @@ O frontend vai rodar em http://localhost:3001.
 
 2.2. Fazer o Commit e Push do README.md
 No PowerShell:
-    ```bash
-    git add README.md
-    git commit -m "Updated README with proper formatting"
-    git push
+
+git add README.md
+git commit -m "Updated README with proper formatting"
+git push
 
 
 ### No VS Code:
